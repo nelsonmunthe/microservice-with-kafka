@@ -1,0 +1,11 @@
+log-order-services/node_modules
+log-order-services/package-lock.json
+log-order-services/.env
+
+main-services/node_modules
+main-services/package-lock.json
+main-services/.env
+
+notifications-services/node_modules
+notifications-services/package-lock.json
+notifications-services/.env
